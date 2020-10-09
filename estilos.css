@@ -2,6 +2,16 @@ body{
 	padding-top:3.5rem;
 }
 
-.gordo{
-	font-weight: 900;
+.ab{
+	color: white;
+}
+
+.bc{
+	color: red;
+}
+
+
+.ef{
+	color: grey;
+	min-height: 350px;
 }
